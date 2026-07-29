@@ -1,14 +1,6 @@
 <div align="center">
 
-```text
-╔══════════════════════════════════════════╗
-║   BOOTING NANDAN_OS v17.0...              ║
-║   [██████████████████████████] 100%       ║
-║   Loading personality... procrastinator.exe║
-╚══════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Nandan+Hegde;whoami+%3D%3E+still+figuring+it+out;Plays+games%2C+to-do+list+untouched;Somehow+wins+awards+anyway" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Nandan+Hegde;Somehow+wins+awards+anyway;Even+though+I+sleep+and+procrastinate+all+the+time;Ask+me+how" alt="Typing SVG" />
 
 ![Name](https://img.shields.io/badge/Nandan_Hegde-000000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -18,25 +10,36 @@
 
 <br>
 
-## 🖥️ system.log
-'''
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rocket-gif.gif" width="380"> </div> <br>
-bash
+```bash
 > Loading achievements... please wait, there are a lot.
-> Warning: PDF attached below may cause sudden respect for a teenager.
-> Status: Once stood a few feet away from the Prime Minist
-> '''
+> [FAIL] To-do list: still untouched, as always
+> [WARN] Somehow still invited to the Red Fort on Independence Day
+> Status: Saw the actual Prime Minister up close, very very close.
 
-He builds things between gaming sessions and a to-do list that never gets shorter, and every so often one of them wins something, or gets him invited somewhere he definitely wasn't expecting. Nobody, least of all him, knows how this keeps happening. Proceed at your own risk.
+```
+
+He builds things. Sometimes they win national awards. Sometimes they get him invited to the Red Fort. Nobody is quite sure how this became a pattern, least of all him. Scroll down before he adds another line item.
 
 <br>
 
-## 🏆 things_that_happened.diff
+## 📊 Achievement Stats (unofficial, self-reported, 100% real)
+
+<div align="center">
+
+| 🌍 Global Wins | 🇮🇳 National Wins | 🏗️ Things Built | 🎤 Times Presented to a PM |
+|:---:|:---:|:---:|:---:|
+| **4** | **7+** | **7** | **1** |
+
+</div>
+
+<br>
+
+## 🏆 The Highlight Reel
 
 ```diff
 + Judges' Favourite — Global Innovation Challenge (beat 93 innovations, 26 countries)
 + Global Finalist x2 — GIC 2024
-+ Invited to Red Fort, Independence Day — saw the PM in person, very very close by
++ Special Guest at Red Fort, Independence Day — PM was there, he was cool about it
 + INSPIRE MANAK National Award + ₹10,000 — DST, Govt. of India
 + Junior Academy Member — NY Academy of Sciences (under 5% get in)
 + Top 36 / Top 100 / Top 350 — ATL Marathon & Dassault Systèmes, repeatedly
@@ -44,7 +47,7 @@ He builds things between gaming sessions and a to-do list that never gets shorte
 
 <br>
 
-## 🔧 builds/ (instead of watching Netflix)
+## 🔧 Things He Built Instead of Watching Netflix
 
 <table align="center">
 <tr><th>Build</th><th>Does What</th></tr>
@@ -59,7 +62,7 @@ He builds things between gaming sessions and a to-do list that never gets shorte
 
 <div align="center">
 
-## 🧠 brain --list-processes
+## 🧠 Currently Living Rent-Free in His Brain
 
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
@@ -75,15 +78,11 @@ He builds things between gaming sessions and a to-do list that never gets shorte
 
 <div align="center">
 
-```text
-$ unzip achievements_full.pdf
-Archive: achievements_full.pdf
-  extracting: every_certificate.jpg
-  extracting: every_award_letter.jpg
-  extracting: "he_was_in_grade_6_for_THIS.jpg"
+```
+$ cat achievements_full.pdf
 ```
 
-That was the trailer. The full archive — every certificate, every award letter, every "wait, he was in Grade 6 for THIS?!" moment — is sealed in the PDF attached below.
+Yeah, this was the trailer. The full movie — every certificate, every award letter, every "he was in Grade 6 for THIS?!" moment — is sealed in the PDF attached below.
 
 **📎 Open at your own risk. Bring snacks.**
 
