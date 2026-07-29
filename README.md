@@ -8,7 +8,7 @@
 ╚══════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Nandan+Hegde;whoami+%3D%3E+still+figuring+it+out;Sleeps+8hrs%2C+procrastinates+16;Somehow+wins+awards+anyway" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Nandan+Hegde;whoami+%3D%3E+still+figuring+it+out;Plays+games%2C+to-do+list+untouched;Somehow+wins+awards+anyway" alt="Typing SVG" />
 
 ![Name](https://img.shields.io/badge/Nandan_Hegde-000000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -22,14 +22,14 @@
 
 ```bash
 [OK] User identified: Nandan Hegde
-[OK] Naps taken today: yes
-[OK] Deadlines ignored until 2am: confirmed
+[OK] Games played today: yes
+[FAIL] To-do list: still untouched, as always
 [WARN] Somehow still invited to the Red Fort on Independence Day
 [WARN] Saw the actual Prime Minister up close, very very close, did not faint
 [INFO] Scroll down before another random award shows up
 ```
 
-He builds things between naps and last-minute panic sessions, and every so often one of them wins something, or gets him invited somewhere he definitely wasn't expecting. Nobody, least of all him, knows how this keeps happening. Proceed at your own risk.
+He builds things between gaming sessions and a to-do list that never gets shorter, and every so often one of them wins something, or gets him invited somewhere he definitely wasn't expecting. Nobody, least of all him, knows how this keeps happening. Proceed at your own risk.
 
 <br>
 
