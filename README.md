@@ -1,36 +1,84 @@
 <div align="center">
 
-# 🧿 NANDAN HEGDE
-### Robotics Innovator · Tech Explorer · Serial Award Collector
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=A020F0&center=true&vCenter=true&width=650&lines=Nandan+Hegde;Professional+Trophy+Hoarder;Arduino+Whisperer;Domain+Expansion%3A+Overachieving" alt="Typing SVG" />
 
-![Domain](https://img.shields.io/badge/Domain-Innovation_Expansion-6A0DAD?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Unsealed_Potential-black?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-Innovation_Expansion-A020F0?style=for-the-badge&logo=starship&logoColor=white)
+![Sleep](https://img.shields.io/badge/Sleep_Schedule-Cursed-000000?style=for-the-badge)
+![Status](https://img.shields.io/badge/Currently-Terrorizing_New_Circuits-blueviolet?style=for-the-badge)
 
-Excel Public School, Mysuru · Junior Academy Member, NY Academy of Sciences
+<sub>⚠️ Warning: has too many certificates for one README to handle ⚠️</sub>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rocket-gif.gif" width="400">
+
+</div>
+
+<br>
+
+So here's the deal — somewhere between Grade 6 and now, a kid with a soldering iron got mistaken for a national innovation program. Things escalated. There was a Red Fort invite. There was a Prime Minister in the room. There was a cash prize. Nobody planned for this level of chaos, least of all him.
+
+Below is the highlight reel, presented with minimal dignity and maximum honesty.
+
+<br>
+
+## ⚡ Cursed Techniques Unlocked
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**🌍 Went Global (oops)**
+- Judges' Favourite — Global Innovation Challenge, beat 93 other innovations like it was nothing
+- Global Finalist ×2 — GIC 2024
+- Junior Academy Member — NY Academy of Sciences, top 5% (the other 95% are still recovering)
+
+</td>
+<td width="50%" valign="top">
+
+**🇮🇳 Went National (also oops)**
+- Special Guest at Red Fort on Independence Day — yes, *that* Red Fort
+- INSPIRE MANAK National Award + ₹10,000 — thanks, Govt. of India, very generous
+- Top 36 / Top 100 / Top 350 finishes — ATL Marathon & Dassault Systèmes, basically collecting leaderboard positions like Pokémon cards
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🔧 Techniques (a.k.a. Things He Built Instead of Relaxing)
+
+| Build | What it does | Chaos level |
+|---|---|---|
+| 🥫 `RationEase` | RFID + fingerprint + OTP ration vending machine | Fixes corruption. Casually. |
+| 🌾 `Agri Feed Pro` | Solar-powered semi-automatic silage machine | Interviewed actual farmers. Actual vets. Actually useful. |
+| 🚨 `Driver Safety System` | Catches drink-driving, drowsiness, lane deviation | Presented in front of the PM like it's nothing |
+| 🌳 `Sustainable Park` | Energy-harvesting IoT lighting + piezo pathway | Made a park smarter than most apps |
+| 🛰️ `Space Rover Station` | 12+ sensor environmental array | For when regular sensors weren't dramatic enough |
+
+<br>
+
+<div align="center">
+
+## 🛠️ Stack (a.k.a. What's Currently Living in His Brain)
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-FF6600?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D_Printing-black?style=for-the-badge&logo=cults3d&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
 ---
 
-### 🏆 Greatest Hits
+<div align="center">
 
-- 🌍 **Global Finalist & Judges' Favourite** — Global Innovation Challenge (beat 93 innovations, 26 countries)
-- 🏛️ **Special Guest at Red Fort**, Independence Day — for his Advanced Driver Safety System
-- 💰 **INSPIRE MANAK National Award** + ₹10,000 — DST, Govt. of India
-- 🎓 **Junior Academy Member**, NY Academy of Sciences — under 5% acceptance
-- 🥇 Multiple **Top 100 / Top 36 / Top 350** national finishes — ATL Marathon, NITI Aayog, Dassault Systèmes
+📄 **That was the trailer, not the movie.** The full portfolio — every certificate, every receipt, every "wait he did THAT too?" moment — is sealed in the attached PDF like a Prison Realm nobody asked to be trapped in.
 
-### 🔧 Signature Builds
+Open it. Regret nothing. Maybe cry a little from secondhand productivity guilt.
 
-**RationEase** (RFID + fingerprint + OTP ration machine) · **Agri Feed Pro** (solar silage machine) · **Advanced Driver Safety System** (drink & drive / drowsiness / lane detection) · **Sustainable Park** (energy-harvesting IoT) · **Space Rover Monitoring Station** (12+ sensor array)
+**⭐ Star this if you're now questioning your own life choices.**
 
-### 🛠️ Skills
-Arduino & Hardware · 3D Printing · App Dev · Game Dev · Web Dev
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/wave.gif" width="80">
 
----
-
-Blah blah, there's *way* more receipts than one README can hold — full portfolio with every certificate sealed in the attachment below like a Prison Realm waiting to be opened. 📄
-
-**📎 Full Achievement Portfolio (PDF) — attached.**
-
-<div align="center">⭐ Star if impressed.</div>
+</div>
