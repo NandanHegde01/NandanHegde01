@@ -1,93 +1,80 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Nandan+Hegde;Somehow+wins+awards+anyway;Even+though+I+sleep+and+procrastinate+all+the+time;Ask+me+how" alt="Typing SVG" />
+# Nandan Hegde
 
-![Name](https://img.shields.io/badge/Nandan_Hegde-000000?style=for-the-badge&logo=github&logoColor=white)
+**Robotics Innovator · AI & Emerging Technologies Explorer**
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rocket-gif.gif" width="380">
+Web Developer · Game Developer · Hardware & IoT Engineer · 3D Printing Enthusiast
 
-</div>
+Excel Public School, Mysuru, Karnataka · Junior Academy Member, New York Academy of Sciences
 
-<br>
+Technology Head at AgriNXT · CEO & Co-founder of C0.Net
 
-```bash
-> Loading achievements... please wait, there are a lot.
-> [FAIL] To-do list: still untouched, as always
-> [WARN] Somehow still invited to the Red Fort on Independence Day
-> Status: Saw the actual Prime Minister up close, very very close.
-
-```
-
-He builds things. Sometimes they win national awards. Sometimes they get him invited to the Red Fort. Nobody is quite sure how this became a pattern, least of all him. Scroll down before he adds another line item.
-
-<br>
-
-## 📊 Achievement Stats (unofficial, self-reported, 100% real)
-
-<div align="center">
-
-| 🌍 Global Wins | 🇮🇳 National Wins | 🏗️ Things Built | 🎤 Times Presented to a PM |
-|:---:|:---:|:---:|:---:|
-| **4** | **7+** | **7** | **1** |
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-025?style=flat-square&logo=raspberrypi&logoColor=white)
 
 </div>
 
-<br>
+## About
 
-## 🏆 The Highlight Reel
+I design and build IoT and hardware systems end-to-end — from circuit and firmware to fabrication and field testing — alongside web and game development. My work has been recognized internationally and nationally, and it spans agriculture, road safety, sustainability, and civic technology. I'm currently Technology Head at AgriNXT and CEO & Co-founder of C0.Net.
 
-```diff
-+ Judges' Favourite — Global Innovation Challenge (beat 93 innovations, 26 countries)
-+ Global Finalist x2 — GIC 2024
-+ Special Guest at Red Fort, Independence Day — PM was there, he was cool about it
-+ INSPIRE MANAK National Award + ₹10,000 — DST, Govt. of India
-+ Junior Academy Member — NY Academy of Sciences (under 5% get in)
-+ Top 36 / Top 100 / Top 350 — ATL Marathon & Dassault Systèmes, repeatedly
-```
+## International Recognition
 
-<br>
+- **Judges' Overall Favourite Award** — 2024 Global Innovation Challenge (InventFuture.Global); selected from 93 innovations across 26 countries and 186 students
+- **Global Finalist** — 2024 Global Innovation Challenge, for *Agri Feed Pro*
+- **Global Finalist** — 2024 Global Innovation Challenge, for *RationEase*
+- **Junior Academy Member** — New York Academy of Sciences; competitive global STEM programme with an acceptance rate under 5%
 
-## 🔧 Things He Built Instead of Watching Netflix
+## National Awards & Recognition
 
-<table align="center">
-<tr><th>Build</th><th>Does What</th></tr>
-<tr><td><code>RationEase</code></td><td>RFID + fingerprint + OTP ration machine. Solves corruption before breakfast.</td></tr>
-<tr><td><code>Agri Feed Pro</code></td><td>Solar silage machine, field-tested with real farmers, not just vibes.</td></tr>
-<tr><td><code>Driver Safety System</code></td><td>Catches drowsy/drunk driving. Debuted in front of the actual Prime Minister.</td></tr>
-<tr><td><code>Sustainable Park</code></td><td>Energy-harvesting park lighting. Smarter than most apps.</td></tr>
-<tr><td><code>Space Rover Station</code></td><td>12+ sensors. Because 11 wasn't dramatic enough.</td></tr>
-</table>
+- **INSPIRE MANAK Award** + ₹10,000 cash prize — Department of Science & Technology, Government of India (2023), for *Sustainable Park*
+- **Special Guest at the Red Fort** — Independence Day National Celebration, in recognition of the *Advanced Driver Safety System*
+- **Top 36 Semi-Finalist** — Made In 3D Seed The Future Entrepreneurs Program (La Fondation Dassault Systèmes x NITI Aayog / Atal Innovation Mission), 2023–24
+- **Top 100 Teams** — ATL Marathon (Level 3), for *Agri Feed Pro* and for *RationEase* (progressed from the Top 350 round)
+- **Top 350 Teams Nationally** — ATL Marathon 2021–22, for *C0.Net*
+- **Participant** — ATL Marathon, for *Sustainable Park* (2022–23) and *GetGrowing* (2020)
 
-<br>
+## Competitions & Hackathons
+
+- **"Science Legend"** — The Armageddon Interschool COVID-19 Challenge (Excelsoft Technologies x Excel Public School), 2020
+- **Top Teams** — EYE Interschool Entrepreneurship Competition
+- **School Winner** — Shark Tank Competition, Excel Public School
+- **VADS (Vehicle Accident Detection System)** — EYE Program, an Arduino-based auto-emergency-call device, 2021
+- **Shoe It To Me (Smart Auto-Fit Sports Shoe)** — EYE Program, Bluetooth-controlled motor-adjusted fit with gamified fitness challenges, 2021
+
+## Key Innovation Projects
+
+| Project | Description |
+|---|---|
+| **Advanced Driver Safety System** | 8+ safety functions including drink-and-drive detection, over-speeding alerts, drowsiness detection, and lane-deviation warnings; presented at the Red Fort in the presence of the Prime Minister of India |
+| **RationEase** | Smart ration vending machine using RFID, fingerprint, and OTP authentication (Arduino Mega, RFID EM-18, Fingerprint R307, SIM800C, load cell); addresses PDS corruption and long queues in a system covering ~60% of India's population |
+| **Agri Feed Pro** | Solar-powered, semi-automatic silage machine (Arduino UNO, 7000 RPM chopper, humidity sensor, biodegradable packing); developed with field research across 5 farmers and 5 veterinarians in Karnataka |
+| **Sustainable Park** | 6 energy-harvesting devices, including Arduino-controlled IR street lighting and a piezoelectric pathway |
+| **Space Rover Environmental Monitoring Station** | 12+ sensor array (AHT10, BMP180, MQ-8, MQ135, MICS-6814, ML8511 UV, MPU6050, dual ESP32-CAM) |
+| **GetGrowing** | Android app connecting farmers and urban green enthusiasts, built in MIT App Inventor (Grade 6) |
+| **C0.Net** | Gamified zero-waste lifestyle app with a task-and-badge reward system |
+
+## Skills & Technical Interests
+
+- **Arduino & Hardware Engineering** — custom builds including a robotic arm and community-impact automation projects
+- **3D Printing** — designing and fabricating custom parts, such as the rack-and-pinion trapdoor mechanism for Agri Feed Pro
+- **App Development** — Android, Arduino C++, and IoT firmware
+- **Game Development** — independent passion projects
+- **Web Development** — self-directed learning and platform concepts, including through the ATL Tinkerpreneur bootcamp
+
+## Bootcamps, Workshops & Memberships
+
+- Junior Academy Member — New York Academy of Sciences
+- NIE Robotics & Innovation Bootcamp — National Institute of Engineering
+- EYE (Entrepreneurship & Young Entrepreneurs Program) — Excel Public School
+- ATL Tinkerpreneur 2022 — 9-week entrepreneurship bootcamp, Atal Innovation Mission, NITI Aayog
+- Workshop on Recent Progress in Astrophysics (WRPA-2022) — Dept. of Physics, Amity University, Uttar Pradesh
 
 <div align="center">
 
-## 🧠 Currently Living Rent-Free in His Brain
-
-![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
-![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D_Printing-000000?style=for-the-badge&logo=cults3d&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-```
-$ cat achievements_full.pdf
-```
-
-Yeah, this was the trailer. The full movie — every certificate, every award letter, every "he was in Grade 6 for THIS?!" moment — is sealed in the PDF attached below.
-
-**📎 Open at your own risk. Bring snacks.**
-
-**⭐ Star this if you're now reconsidering your own LinkedIn.**
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/wave.gif" width="80">
+⭐ Full portfolio with certificates and documentation available on request.
 
 </div>
