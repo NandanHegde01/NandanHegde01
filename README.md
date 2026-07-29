@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=A020F0&center=true&vCenter=true&width=650&lines=Nandan+Hegde;Professional+Trophy+Hoarder;Arduino+Whisperer;Domain+Expansion%3A+Overachieving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=A020F0&center=true&vCenter=true&width=750&lines=Nandan+Hegde;Professional+Trophy+Hoarder;Arduino+Whisperer;Domain+Expansion" alt="Typing SVG" />
 
-![Domain](https://img.shields.io/badge/Domain-Innovation_Expansion-A020F0?style=for-the-badge&logo=starship&logoColor=white)
-![Sleep](https://img.shields.io/badge/Sleep_Schedule-Cursed-000000?style=for-the-badge)
-![Status](https://img.shields.io/badge/Currently-Terrorizing_New_Circuits-blueviolet?style=for-the-badge)
+![Trophies](https://img.shields.io/badge/Trophies-Too_Many_To_Count-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
+![Build](https://img.shields.io/badge/Build_Status-Overengineered-A020F0?style=for-the-badge&logo=arduino&logoColor=white)
+![Fuel](https://img.shields.io/badge/Powered_By-Curiosity_%2B_Caffeine-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white)
+![PM](https://img.shields.io/badge/Once_Met-The_Prime_Minister-000000?style=for-the-badge&logo=India&logoColor=white)
 
 <sub>⚠️ Warning: has too many certificates for one README to handle ⚠️</sub>
 
@@ -20,7 +21,7 @@ Below is the highlight reel, presented with minimal dignity and maximum honesty.
 
 <br>
 
-## ⚡ Cursed Techniques Unlocked
+## ⚡ Achievements Unlocked
 
 <table align="center">
 <tr>
