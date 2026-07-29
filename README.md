@@ -2,10 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=A020F0&center=true&vCenter=true&width=750&lines=Nandan+Hegde;Professional+Trophy+Hoarder;Arduino+Whisperer;Domain+Expansion" alt="Typing SVG" />
 
-![Trophies](https://img.shields.io/badge/Trophies-Too_Many_To_Count-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
-![Build](https://img.shields.io/badge/Build_Status-Overengineered-A020F0?style=for-the-badge&logo=arduino&logoColor=white)
-![Fuel](https://img.shields.io/badge/Powered_By-Curiosity_%2B_Caffeine-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white)
-![PM](https://img.shields.io/badge/Once_Met-The_Prime_Minister-000000?style=for-the-badge&logo=India&logoColor=white)
+![Level](https://img.shields.io/badge/Level-Overqualified_For_Age-9146FF?style=for-the-badge&logo=leaflet&logoColor=white)
+![Debug](https://img.shields.io/badge/Debugging-Life_Choices-red?style=for-the-badge&logo=bugatti&logoColor=white)
+![Certs](https://img.shields.io/badge/Certificates-Send_Help-blue?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Chaos](https://img.shields.io/badge/Chaos_Level-National_Award_Winning-brightgreen?style=for-the-badge&logo=fireship&logoColor=white)
 
 <sub>⚠️ Warning: has too many certificates for one README to handle ⚠️</sub>
 
@@ -60,13 +60,13 @@ Below is the highlight reel, presented with minimal dignity and maximum honesty.
 
 <div align="center">
 
-## 🛠️ Stack (a.k.a. What's Currently Living in His Brain)
+## 🛠️ Currently Living Rent-Free in His Brain
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-FF6600?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D_Printing-black?style=for-the-badge&logo=cults3d&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
+![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D_Printing-000000?style=for-the-badge&logo=cults3d&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
