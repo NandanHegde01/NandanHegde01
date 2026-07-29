@@ -1,11 +1,14 @@
 <div align="center">
 
-```
-$ whoami
-Nandan Hegde
+```text
+╔══════════════════════════════════════════╗
+║   BOOTING NANDAN_OS v17.0...              ║
+║   [██████████████████████████] 100%       ║
+║   Loading personality... procrastinator.exe║
+╚══════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Nandan+Hegde;Somehow+wins+awards+anyway;Even+though+I+sleep+and+procrastinate+all+the+time;Ask+me+how" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Nandan+Hegde;whoami+%3D%3E+still+figuring+it+out;Sleeps+8hrs%2C+procrastinates+16;Somehow+wins+awards+anyway" alt="Typing SVG" />
 
 ![Name](https://img.shields.io/badge/Nandan_Hegde-000000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -15,17 +18,22 @@ Nandan Hegde
 
 <br>
 
+## 🖥️ system.log
+
 ```bash
-> Loading achievements... please wait, there are a lot.
-> Warning: PDF attached below may cause sudden respect for a teenager.
-> Status: Got invited to the Red Fort and saw the Prime Minister up close, very very close.
+[OK] User identified: Nandan Hegde
+[OK] Naps taken today: yes
+[OK] Deadlines ignored until 2am: confirmed
+[WARN] Somehow still invited to the Red Fort on Independence Day
+[WARN] Saw the actual Prime Minister up close, very very close, did not faint
+[INFO] Scroll down before another random award shows up
 ```
 
-He builds things between naps and procrastination sessions. Somehow some of them win national awards. Somehow one of them got him invited to the Red Fort, close enough to see the Prime Minister in person. Nobody's quite sure how this keeps happening, least of all him. Scroll down before he adds another line item.
+He builds things between naps and last-minute panic sessions, and every so often one of them wins something, or gets him invited somewhere he definitely wasn't expecting. Nobody, least of all him, knows how this keeps happening. Proceed at your own risk.
 
 <br>
 
-## 🏆 The Highlight Reel
+## 🏆 things_that_happened.diff
 
 ```diff
 + Judges' Favourite — Global Innovation Challenge (beat 93 innovations, 26 countries)
@@ -38,7 +46,7 @@ He builds things between naps and procrastination sessions. Somehow some of them
 
 <br>
 
-## 🔧 Things He Built Instead of Watching Netflix
+## 🔧 builds/ (instead of watching Netflix)
 
 <table align="center">
 <tr><th>Build</th><th>Does What</th></tr>
@@ -53,7 +61,7 @@ He builds things between naps and procrastination sessions. Somehow some of them
 
 <div align="center">
 
-## 🧠 Currently Living Rent-Free in His Brain
+## 🧠 brain --list-processes
 
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
@@ -69,11 +77,15 @@ He builds things between naps and procrastination sessions. Somehow some of them
 
 <div align="center">
 
-```
-$ cat achievements_full.pdf
+```text
+$ unzip achievements_full.pdf
+Archive: achievements_full.pdf
+  extracting: every_certificate.jpg
+  extracting: every_award_letter.jpg
+  extracting: "he_was_in_grade_6_for_THIS.jpg"
 ```
 
-Yeah, this was the trailer. The full movie — every certificate, every award letter, every "he was in Grade 6 for THIS?!" moment — is sealed in the PDF attached below.
+That was the trailer. The full archive — every certificate, every award letter, every "wait, he was in Grade 6 for THIS?!" moment — is sealed in the PDF attached below.
 
 **📎 Open at your own risk. Bring snacks.**
 
