@@ -2,10 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=A020F0&center=true&vCenter=true&width=750&lines=Nandan+Hegde;Professional+Trophy+Hoarder;Arduino+Whisperer;Domain+Expansion" alt="Typing SVG" />
 
-![Level](https://img.shields.io/badge/Level-Overqualified_For_Age-9146FF?style=for-the-badge&logo=leaflet&logoColor=white)
-![Debug](https://img.shields.io/badge/Debugging-Life_Choices-red?style=for-the-badge&logo=bugatti&logoColor=white)
-![Certs](https://img.shields.io/badge/Certificates-Send_Help-blue?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Chaos](https://img.shields.io/badge/Chaos_Level-National_Award_Winning-brightgreen?style=for-the-badge&logo=fireship&logoColor=white)
+![Name](https://img.shields.io/badge/Nandan_Hegde-000000?style=for-the-badge&logo=github&logoColor=white)
+![Tag1](https://img.shields.io/badge/Professional-Overachiever-000000?style=for-the-badge&color=white&labelColor=black)
+![Tag2](https://img.shields.io/badge/Certified-Trophy_Hoarder-000000?style=for-the-badge&color=white&labelColor=black)
 
 <sub>⚠️ Warning: has too many certificates for one README to handle ⚠️</sub>
 
