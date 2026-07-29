@@ -19,15 +19,13 @@
 <br>
 
 ## 🖥️ system.log
-
-```bash
-[OK] User identified: Nandan Hegde
-[OK] Games played today: yes
-[FAIL] To-do list: still untouched, as always
-[WARN] Somehow still invited to the Red Fort on Independence Day
-[WARN] Saw the actual Prime Minister up close, very very close, did not faint
-[INFO] Scroll down before another random award shows up
-```
+'''
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rocket-gif.gif" width="380"> </div> <br>
+bash
+> Loading achievements... please wait, there are a lot.
+> Warning: PDF attached below may cause sudden respect for a teenager.
+> Status: Once stood a few feet away from the Prime Minist
+> '''
 
 He builds things between gaming sessions and a to-do list that never gets shorter, and every so often one of them wins something, or gets him invited somewhere he definitely wasn't expecting. Nobody, least of all him, knows how this keeps happening. Proceed at your own risk.
 
