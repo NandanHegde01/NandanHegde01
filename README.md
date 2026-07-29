@@ -1,65 +1,72 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=A020F0&center=true&vCenter=true&width=750&lines=Nandan+Hegde;Professional+Trophy+Hoarder;Arduino+Whisperer;Domain+Expansion" alt="Typing SVG" />
+```
+$ whoami
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Nandan+Hegde;Building+things+since+Grade+6;Currently+overqualified+for+his+age;Send+shelf+space+for+trophies" alt="Typing SVG" />
 
 ![Name](https://img.shields.io/badge/Nandan_Hegde-000000?style=for-the-badge&logo=github&logoColor=white)
-![Tag1](https://img.shields.io/badge/Professional-Overachiever-000000?style=for-the-badge&color=white&labelColor=black)
-![Tag2](https://img.shields.io/badge/Certified-Trophy_Hoarder-000000?style=for-the-badge&color=white&labelColor=black)
+![Tag1](https://img.shields.io/badge/Professional-Overachiever-white?style=for-the-badge&labelColor=black)
+![Tag2](https://img.shields.io/badge/Certified-Trophy_Hoarder-white?style=for-the-badge&labelColor=black)
 
-<sub>⚠️ Warning: has too many certificates for one README to handle ⚠️</sub>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rocket-gif.gif" width="400">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rocket-gif.gif" width="380">
 
 </div>
 
 <br>
 
-So here's the deal — somewhere between Grade 6 and now, a kid with a soldering iron got mistaken for a national innovation program. Things escalated. There was a Red Fort invite. There was a Prime Minister in the room. There was a cash prize. Nobody planned for this level of chaos, least of all him.
+```bash
+> Loading achievements... please wait, there are a lot.
+> Warning: PDF attached below may cause sudden respect for a teenager.
+> Status: Once stood in a room with the Prime Minister and did not faint.
+```
 
-Below is the highlight reel, presented with minimal dignity and maximum honesty.
+He builds things. Sometimes they win national awards. Sometimes they get him invited to the Red Fort. Nobody is quite sure how this became a pattern, least of all him. Scroll down before he adds another line item.
 
 <br>
 
-## ⚡ Achievements Unlocked
+## 📊 Achievement Stats (unofficial, self-reported, 100% real)
+
+<div align="center">
+
+| 🌍 Global Wins | 🇮🇳 National Wins | 🏗️ Things Built | 🎤 Times Presented to a PM |
+|:---:|:---:|:---:|:---:|
+| **4** | **7+** | **7** | **1** |
+
+</div>
+
+<br>
+
+## 🏆 The Highlight Reel
+
+```diff
++ Judges' Favourite — Global Innovation Challenge (beat 93 innovations, 26 countries)
++ Global Finalist x2 — GIC 2024
++ Special Guest at Red Fort, Independence Day — PM was there, he was cool about it
++ INSPIRE MANAK National Award + ₹10,000 — DST, Govt. of India
++ Junior Academy Member — NY Academy of Sciences (under 5% get in)
++ Top 36 / Top 100 / Top 350 — ATL Marathon & Dassault Systèmes, repeatedly
+```
+
+<br>
+
+## 🔧 Things He Built Instead of Watching Netflix
 
 <table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**🌍 Went Global (oops)**
-- Judges' Favourite — Global Innovation Challenge, beat 93 other innovations like it was nothing
-- Global Finalist ×2 — GIC 2024
-- Junior Academy Member — NY Academy of Sciences, top 5% (the other 95% are still recovering)
-
-</td>
-<td width="50%" valign="top">
-
-**🇮🇳 Went National (also oops)**
-- Special Guest at Red Fort on Independence Day — yes, *that* Red Fort
-- INSPIRE MANAK National Award + ₹10,000 — thanks, Govt. of India, very generous
-- Top 36 / Top 100 / Top 350 finishes — ATL Marathon & Dassault Systèmes, basically collecting leaderboard positions like Pokémon cards
-
-</td>
-</tr>
+<tr><th>Build</th><th>Does What</th></tr>
+<tr><td><code>RationEase</code></td><td>RFID + fingerprint + OTP ration machine. Solves corruption before breakfast.</td></tr>
+<tr><td><code>Agri Feed Pro</code></td><td>Solar silage machine, field-tested with real farmers, not just vibes.</td></tr>
+<tr><td><code>Driver Safety System</code></td><td>Catches drowsy/drunk driving. Debuted in front of the actual Prime Minister.</td></tr>
+<tr><td><code>Sustainable Park</code></td><td>Energy-harvesting park lighting. Smarter than most apps.</td></tr>
+<tr><td><code>Space Rover Station</code></td><td>12+ sensors. Because 11 wasn't dramatic enough.</td></tr>
 </table>
-
-<br>
-
-## 🔧 Techniques (a.k.a. Things He Built Instead of Relaxing)
-
-| Build | What it does | Chaos level |
-|---|---|---|
-| 🥫 `RationEase` | RFID + fingerprint + OTP ration vending machine | Fixes corruption. Casually. |
-| 🌾 `Agri Feed Pro` | Solar-powered semi-automatic silage machine | Interviewed actual farmers. Actual vets. Actually useful. |
-| 🚨 `Driver Safety System` | Catches drink-driving, drowsiness, lane deviation | Presented in front of the PM like it's nothing |
-| 🌳 `Sustainable Park` | Energy-harvesting IoT lighting + piezo pathway | Made a park smarter than most apps |
-| 🛰️ `Space Rover Station` | 12+ sensor environmental array | For when regular sensors weren't dramatic enough |
 
 <br>
 
 <div align="center">
 
-## 🛠️ Currently Living Rent-Free in His Brain
+## 🧠 Currently Living Rent-Free in His Brain
 
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
@@ -69,15 +76,21 @@ Below is the highlight reel, presented with minimal dignity and maximum honesty.
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-📄 **That was the trailer, not the movie.** The full portfolio — every certificate, every receipt, every "wait he did THAT too?" moment — is sealed in the attached PDF like a Prison Realm nobody asked to be trapped in.
+```
+$ cat achievements_full.pdf
+```
 
-Open it. Regret nothing. Maybe cry a little from secondhand productivity guilt.
+Yeah, this was the trailer. The full movie — every certificate, every award letter, every "he was in Grade 6 for THIS?!" moment — is sealed in the PDF attached below.
 
-**⭐ Star this if you're now questioning your own life choices.**
+**📎 Open at your own risk. Bring snacks.**
+
+**⭐ Star this if you're now reconsidering your own LinkedIn.**
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/wave.gif" width="80">
 
