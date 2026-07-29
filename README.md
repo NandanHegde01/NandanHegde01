@@ -2,13 +2,12 @@
 
 ```
 $ whoami
+Nandan Hegde
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Nandan+Hegde;Building+things+since+Grade+6;Currently+overqualified+for+his+age;Send+shelf+space+for+trophies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=Nandan+Hegde;Somehow+wins+awards+anyway;Even+though+I+sleep+and+procrastinate+all+the+time;Ask+me+how" alt="Typing SVG" />
 
 ![Name](https://img.shields.io/badge/Nandan_Hegde-000000?style=for-the-badge&logo=github&logoColor=white)
-![Tag1](https://img.shields.io/badge/Professional-Overachiever-white?style=for-the-badge&labelColor=black)
-![Tag2](https://img.shields.io/badge/Certified-Trophy_Hoarder-white?style=for-the-badge&labelColor=black)
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/rocket-gif.gif" width="380">
 
@@ -19,22 +18,10 @@ $ whoami
 ```bash
 > Loading achievements... please wait, there are a lot.
 > Warning: PDF attached below may cause sudden respect for a teenager.
-> Status: Once stood in a room with the Prime Minister and did not faint.
+> Status: Got invited to the Red Fort and saw the Prime Minister up close, very very close.
 ```
 
-He builds things. Sometimes they win national awards. Sometimes they get him invited to the Red Fort. Nobody is quite sure how this became a pattern, least of all him. Scroll down before he adds another line item.
-
-<br>
-
-## 📊 Achievement Stats (unofficial, self-reported, 100% real)
-
-<div align="center">
-
-| 🌍 Global Wins | 🇮🇳 National Wins | 🏗️ Things Built | 🎤 Times Presented to a PM |
-|:---:|:---:|:---:|:---:|
-| **4** | **7+** | **7** | **1** |
-
-</div>
+He builds things between naps and procrastination sessions. Somehow some of them win national awards. Somehow one of them got him invited to the Red Fort, close enough to see the Prime Minister in person. Nobody's quite sure how this keeps happening, least of all him. Scroll down before he adds another line item.
 
 <br>
 
@@ -43,7 +30,7 @@ He builds things. Sometimes they win national awards. Sometimes they get him inv
 ```diff
 + Judges' Favourite — Global Innovation Challenge (beat 93 innovations, 26 countries)
 + Global Finalist x2 — GIC 2024
-+ Special Guest at Red Fort, Independence Day — PM was there, he was cool about it
++ Invited to Red Fort, Independence Day — saw the PM in person, very very close by
 + INSPIRE MANAK National Award + ₹10,000 — DST, Govt. of India
 + Junior Academy Member — NY Academy of Sciences (under 5% get in)
 + Top 36 / Top 100 / Top 350 — ATL Marathon & Dassault Systèmes, repeatedly
