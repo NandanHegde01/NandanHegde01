@@ -23,11 +23,9 @@
 
 I build robots that don't catch fire (most of the time), write code that occasionally works on the first try, and once presented an innovation to the Prime Minister of India while probably still covered in workshop dust. Think of me as a jujutsu sorcerer, except instead of exorcising curses, I exorcise bugs — and instead of a cursed technique, I've got a screwdriver and way too much caffeine.
 
-\`\`\`txt
-if (task == "impossible"):
-    activate_domain_expansion("Innovation Realm")
-    # sure-hit effect: task gets solved
-\`\`\`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=6B46C1&center=true&vCenter=true&width=750&lines=if+(task+%3D%3D+%22impossible%22)%3A;++++activate_domain_expansion(%22Innovation+Realm%22)%3B;++++%23+sure-hit+effect%3A+task+gets+solved" alt="Code Typing SVG" />
+</p>
 
 ---
 
@@ -94,19 +92,6 @@ Atal Innovation Mission, NITI Aayog · Project: **RationEase** · Advanced past 
   <img src="https://img.shields.io/badge/Artificial_Intelligence-6B46C1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/3D_%26_CAD_Design-6B46C1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Entrepreneurship-6B46C1?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 Cursed Energy Output (GitHub Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NandanHegde01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandanHegde01&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandanHegde01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </p>
 
 ---
