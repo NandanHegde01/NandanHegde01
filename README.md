@@ -2,7 +2,7 @@
 <h3 align="center">Special Grade Sorcerer of Robotics · AI & Emerging Tech Enthusiast · Hardware/IoT Engineer · Full-Stack Tinkerer</h3>
 
 <p align="center">
-  <em>"Throughout Heaven and Earth, I alone am the honored one" — said no one, but my solder joints hold up like it's true.</em>
+  <em>"Throughout Heaven and Earth, I alone am the honored one" — said no one, but my circuit boards hold up like it's true.</em>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ### 🔮 A Little About Me
 
-I build robots that don't catch fire (most of the time), write code that occasionally works on the first try, and once presented an innovation to the Prime Minister of India while probably still smelling like solder flux. Think of me as a jujutsu sorcerer, except instead of exorcising curses, I exorcise bugs — and instead of a cursed technique, I've got a soldering iron and way too much caffeine.
+I build robots that don't catch fire (most of the time), write code that occasionally works on the first try, and once presented an innovation to the Prime Minister of India while probably still covered in workshop dust. Think of me as a jujutsu sorcerer, except instead of exorcising curses, I exorcise bugs — and instead of a cursed technique, I've got a screwdriver and way too much caffeine.
 
 \`\`\`txt
 if (task == "impossible"):
