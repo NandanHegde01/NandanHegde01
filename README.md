@@ -1,28 +1,37 @@
-<h1 align="center">Hi, I'm Nandan Hegde 👋</h1>
-<h3 align="center">Robotics Innovator · AI & Emerging Tech Enthusiast · Hardware/IoT Engineer · Full-Stack Tinkerer</h3>
+<h1 align="center">こんにちは 👋 Nandan Hegde</h1>
+<h3 align="center">Special Grade Sorcerer of Robotics · AI & Emerging Tech Enthusiast · Hardware/IoT Engineer · Full-Stack Tinkerer</h3>
 
 <p align="center">
-  <em>Turning Arduino boards into national headlines since Grade 6.</em>
+  <em>"Throughout Heaven and Earth, I alone am the honored one" — said no one, but my solder joints hold up like it's true.</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Member+%40+New+York+Academy+of+Sciences;Building+robots+that+(mostly)+don't+catch+fire;Probably+debugging+a+sensor+array+right+now" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6B46C1&center=true&vCenter=true&width=650&lines=Member+%40+New+York+Academy+of+Sciences;Cursed+Technique%3A+Infinite+Debugging;Domain+Expansion%3A+Sensor+Array+Realm" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursed_Energy_Level-Special_Grade-6B46C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domain-Innovation_Realm-1a1a2e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Grade-Overpowered_Sorcerer-purple?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🎤 A Little About Me
+### 🔮 A Little About Me
 
-I build robots that don't catch fire (most of the time), write code that occasionally works on the first try, and once presented a project to the Prime Minister of India while probably still smelling like solder flux. When I'm not soldering something, I'm shipping a web app, training a model, or arguing with a 3D printer that insists on printing spaghetti instead of my part.
+I build robots that don't catch fire (most of the time), write code that occasionally works on the first try, and once presented an innovation to the Prime Minister of India while probably still smelling like solder flux. Think of me as a jujutsu sorcerer, except instead of exorcising curses, I exorcise bugs — and instead of a cursed technique, I've got a soldering iron and way too much caffeine.
 
-```txt
+\`\`\`txt
 if (task == "impossible"):
-    give_it_to(nandan)  # he'll figure it out eventually
-```
+    activate_domain_expansion("Innovation Realm")
+    # sure-hit effect: task gets solved
+\`\`\`
+
+**My Cursed Techniques (a.k.a. what I actually do):** Robotics · IoT · AI · Web/App/Game Dev · 3D Printing & Design
 
 ---
 
-## 🏆 Top Achievements (a.k.a. the "brag responsibly" section)
+## 🏆 Top Achievements — The Hidden Inventory
 
 <table>
 <tr>
@@ -30,7 +39,7 @@ if (task == "impossible"):
 <td>
 
 **New York Academy of Sciences — Junior Academy Member**
-Selective global STEM programme · **acceptance rate under 5%** — harder to get into than my school's WiFi
+Selective global STEM programme · **acceptance rate under 5%** — rarer than a Special Grade cursed object
 
 </td>
 </tr>
@@ -49,7 +58,7 @@ Also picked up the **Bold Ideas! Award** (sponsored by Bold Patents Law Firm) at
 <td>
 
 **Represented Project at Red Fort — Independence Day Celebration** · [↗ Invitation](https://drive.google.com/drive/folders/your-folder-id)
-Formally invited as Special Guest · Presented an innovation in front of the **Prime Minister of India** (yes, I checked twice that this wasn't a dream)
+Formally invited as Special Guest · Presented an innovation in front of the **Prime Minister of India** — the closest thing to a Shibuya-scale event I've experienced firsthand
 
 </td>
 </tr>
@@ -67,19 +76,19 @@ La Fondation Dassault Systèmes × NITI Aayog / Atal Innovation Mission · Seaso
 <td>
 
 **Top 100 Teams — ATL Marathon (Student Innovation Program, Level 2)** · [↗ Certificate](https://drive.google.com/drive/folders/your-folder-id)
-Atal Innovation Mission, NITI Aayog · Project: **RationEase** · Selected after a Top 350 national round
+Atal Innovation Mission, NITI Aayog · Project: **RationEase** · Advanced past a Top 350 national round like it was a first-year curse
 
 </td>
 </tr>
 </table>
 
-> Full portfolio with certificates, research papers, and source code available on request — I promise it's more organized than my desk.
+> Full portfolio with certificates, research papers, and source code available on request — cataloged more carefully than Jujutsu High's grimoire archive.
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ Cursed Techniques & Tech Stack
 
-**🤖 Robotics & Hardware (the favorite child)**
+**🤖 Robotics & Hardware (my Domain Expansion)**
 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
@@ -95,7 +104,7 @@ Atal Innovation Mission, NITI Aayog · Project: **RationEase** · Selected after
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Android_(MIT_App_Inventor)-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Game_Dev-8A2BE2?style=for-the-badge&logo=unity&logoColor=white"/>
 
-**🤖 AI, SEO & Growth**
+**🧠 AI, SEO & Growth**
 
 <img src="https://img.shields.io/badge/Artificial_Intelligence-black?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white"/> <img src="https://img.shields.io/badge/Technical_Writing-6E4AFF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Ghostwriting-333333?style=for-the-badge"/> <img src="https://img.shields.io/badge/Software_Testing-D32F2F?style=for-the-badge"/>
 
@@ -105,7 +114,7 @@ Atal Innovation Mission, NITI Aayog · Project: **RationEase** · Selected after
 
 ---
 
-## 📊 GitHub Stats (the part robots love)
+## 📊 Cursed Energy Output (GitHub Stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
@@ -116,11 +125,11 @@ Atal Innovation Mission, NITI Aayog · Project: **RationEase** · Selected after
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </p>
 
-> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate the stats.
+> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to unseal the stats.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Summon Me (Let's Connect)
 
 <p align="left">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -129,5 +138,5 @@ Atal Innovation Mission, NITI Aayog · Project: **RationEase** · Selected after
 </p>
 
 <p align="center">
-  <em>⭐ If my sensors haven't malfunctioned, this profile updates faster than my 3D printer finishes a print.</em>
+  <em>⭐ Star this profile — every star powers up my Reverse Cursed Technique (a.k.a. my motivation to ship more projects).</em>
 </p>
