@@ -29,8 +29,6 @@ if (task == "impossible"):
     # sure-hit effect: task gets solved
 \`\`\`
 
-**My Cursed Techniques (a.k.a. what I actually do):** Robotics · IoT · AI · Web/App/Game Dev · 3D Printing & Design
-
 ---
 
 ## 🏆 Top Achievements — The Hidden Inventory
@@ -90,29 +88,13 @@ Atal Innovation Mission, NITI Aayog · Project: **RationEase** · Advanced past 
 
 ## 🛠️ Cursed Techniques & Tech Stack
 
-**🤖 Robotics & Hardware (my Domain Expansion)**
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-**🌐 IoT & Embedded Systems**
-
-<img src="https://img.shields.io/badge/IoT-Sensors_%26_Actuators-4CAF50?style=for-the-badge"/> <img src="https://img.shields.io/badge/RFID-Fingerprint-blueviolet?style=for-the-badge"/> <img src="https://img.shields.io/badge/GSM/SIM800C-orange?style=for-the-badge"/>
-
-**🖨️ 3D Printing & Design**
-
-<img src="https://img.shields.io/badge/3D_Printing-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/CAD_Design-1976D2?style=for-the-badge"/>
-
-**💻 Web, App & Game Development**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Android_(MIT_App_Inventor)-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Game_Dev-8A2BE2?style=for-the-badge&logo=unity&logoColor=white"/>
-
-**🧠 AI, SEO & Growth**
-
-<img src="https://img.shields.io/badge/Artificial_Intelligence-black?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white"/> <img src="https://img.shields.io/badge/Technical_Writing-6E4AFF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Ghostwriting-333333?style=for-the-badge"/> <img src="https://img.shields.io/badge/Software_Testing-D32F2F?style=for-the-badge"/>
-
-**📈 Business & Finance**
-
-<img src="https://img.shields.io/badge/Entrepreneurship-009688?style=for-the-badge"/> <img src="https://img.shields.io/badge/Finance-2E7D32?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pitching_%26_Investor_Decks-FBC02D?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Robotics-6B46C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full_Stack_Web_Design-6B46C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-6B46C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/3D_%26_CAD_Design-6B46C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Entrepreneurship-6B46C1?style=for-the-badge"/>
+</p>
 
 ---
 
