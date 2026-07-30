@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=CEO+%26+Co-founder+%40+C0.Net;Technology+Head+%40+AgriNXT;Member+%40+New+York+Academy+of+Sciences;Probably+debugging+a+sensor+array+right+now" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Member+%40+New+York+Academy+of+Sciences;Building+robots+that+(mostly)+don't+catch+fire;Probably+debugging+a+sensor+array+right+now" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,7 +17,7 @@ I build robots that don't catch fire (most of the time), write code that occasio
 
 ```txt
 if (task == "impossible"):
-    give_it_to(nandan)  # he'll either solve it or start a company about it
+    give_it_to(nandan)  # he'll figure it out eventually
 ```
 
 ---
@@ -105,23 +105,15 @@ Atal Innovation Mission, NITI Aayog · Project: **RationEase** · Selected after
 
 ---
 
-## 🚀 Currently Building / Leading
-
-- 🌾 **Technology Head @ AgriNXT** — building hardware that farmers actually want to use
-- ♻️ **CEO & Co-founder @ C0.Net** — gamifying zero-waste living, one badge at a time
-- 🔬 Occasionally arguing with a soldering iron about who's really in charge
-
----
-
 ## 📊 GitHub Stats (the part robots love)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NandanHegde01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandanHegde01&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandanHegde01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </p>
 
 > Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate the stats.
