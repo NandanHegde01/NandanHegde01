@@ -10,9 +10,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cursed_Energy_Level-Special_Grade-6B46C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Domain-Innovation_Realm-1a1a2e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Grade-Overpowered_Sorcerer-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Robotics-6B46C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full_Stack_Web_Design-6B46C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-6B46C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/3D_%26_CAD_Design-6B46C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Entrepreneurship-6B46C1?style=for-the-badge"/>
 </p>
 
 ---
