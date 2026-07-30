@@ -121,7 +121,7 @@ Atal Innovation Mission, NITI Aayog · Project: **RationEase** · Selected after
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandanHegde01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </p>
 
 > Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate the stats.
