@@ -1,80 +1,141 @@
-<div align="center">
+<h1 align="center">Hi, I'm Nandan Hegde 👋</h1>
+<h3 align="center">Robotics Innovator · AI & Emerging Tech Enthusiast · Hardware/IoT Engineer · Full-Stack Tinkerer</h3>
 
-# Nandan Hegde
+<p align="center">
+  <em>Turning Arduino boards into national headlines since Grade 6.</em>
+</p>
 
-**Robotics Innovator · AI & Emerging Technologies Explorer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=CEO+%26+Co-founder+%40+C0.Net;Technology+Head+%40+AgriNXT;Member+%40+New+York+Academy+of+Sciences;Probably+debugging+a+sensor+array+right+now" alt="Typing SVG" />
+</p>
 
-Web Developer · Game Developer · Hardware & IoT Engineer · 3D Printing Enthusiast
+---
 
-Excel Public School, Mysuru, Karnataka · Junior Academy Member, New York Academy of Sciences
+### 🎤 A Little About Me
 
-Technology Head at AgriNXT · CEO & Co-founder of C0.Net
+I build robots that don't catch fire (most of the time), write code that occasionally works on the first try, and once presented a project to the Prime Minister of India while probably still smelling like solder flux. When I'm not soldering something, I'm shipping a web app, training a model, or arguing with a 3D printer that insists on printing spaghetti instead of my part.
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-025?style=flat-square&logo=raspberrypi&logoColor=white)
+```txt
+if (task == "impossible"):
+    give_it_to(nandan)  # he'll either solve it or start a company about it
+```
 
-</div>
+---
 
-## About
+## 🏆 Top Achievements (a.k.a. the "brag responsibly" section)
 
-I design and build IoT and hardware systems end-to-end — from circuit and firmware to fabrication and field testing — alongside web and game development. My work has been recognized internationally and nationally, and it spans agriculture, road safety, sustainability, and civic technology. I'm currently Technology Head at AgriNXT and CEO & Co-founder of C0.Net.
+<table>
+<tr>
+<td width="60">🗽</td>
+<td>
 
-## International Recognition
+**New York Academy of Sciences — Junior Academy Member**
+Selective global STEM programme · **acceptance rate under 5%** — harder to get into than my school's WiFi
 
-- **Judges' Overall Favourite Award** — 2024 Global Innovation Challenge (InventFuture.Global); selected from 93 innovations across 26 countries and 186 students
-- **Global Finalist** — 2024 Global Innovation Challenge, for *Agri Feed Pro*
-- **Global Finalist** — 2024 Global Innovation Challenge, for *RationEase*
-- **Junior Academy Member** — New York Academy of Sciences; competitive global STEM programme with an acceptance rate under 5%
+</td>
+</tr>
+<tr>
+<td width="60">🌍</td>
+<td>
 
-## National Awards & Recognition
+**Judges' Overall Favourite Award — 2024 Global Innovation Challenge** · [↗ Certificate](https://drive.google.com/drive/folders/your-folder-id)
+InventFuture.Global · 186 students · 93 innovations · 26 countries · Oct 2024
+Also picked up the **Bold Ideas! Award** (sponsored by Bold Patents Law Firm) at the same event — [↗ Certificate](https://drive.google.com/drive/folders/your-folder-id)
 
-- **INSPIRE MANAK Award** + ₹10,000 cash prize — Department of Science & Technology, Government of India (2023), for *Sustainable Park*
-- **Special Guest at the Red Fort** — Independence Day National Celebration, in recognition of the *Advanced Driver Safety System*
-- **Top 36 Semi-Finalist** — Made In 3D Seed The Future Entrepreneurs Program (La Fondation Dassault Systèmes x NITI Aayog / Atal Innovation Mission), 2023–24
-- **Top 100 Teams** — ATL Marathon (Level 3), for *Agri Feed Pro* and for *RationEase* (progressed from the Top 350 round)
-- **Top 350 Teams Nationally** — ATL Marathon 2021–22, for *C0.Net*
-- **Participant** — ATL Marathon, for *Sustainable Park* (2022–23) and *GetGrowing* (2020)
+</td>
+</tr>
+<tr>
+<td width="60">🇮🇳</td>
+<td>
 
-## Competitions & Hackathons
+**Represented Project at Red Fort — Independence Day Celebration** · [↗ Invitation](https://drive.google.com/drive/folders/your-folder-id)
+Formally invited as Special Guest · Presented an innovation in front of the **Prime Minister of India** (yes, I checked twice that this wasn't a dream)
 
-- **"Science Legend"** — The Armageddon Interschool COVID-19 Challenge (Excelsoft Technologies x Excel Public School), 2020
-- **Top Teams** — EYE Interschool Entrepreneurship Competition
-- **School Winner** — Shark Tank Competition, Excel Public School
-- **VADS (Vehicle Accident Detection System)** — EYE Program, an Arduino-based auto-emergency-call device, 2021
-- **Shoe It To Me (Smart Auto-Fit Sports Shoe)** — EYE Program, Bluetooth-controlled motor-adjusted fit with gamified fitness challenges, 2021
+</td>
+</tr>
+<tr>
+<td width="60">🏭</td>
+<td>
 
-## Key Innovation Projects
+**Top 18 Semi-Finalist — Made In 3D: Seed The Future Entrepreneurs Program** · [↗ Certificate](https://drive.google.com/drive/folders/your-folder-id)
+La Fondation Dassault Systèmes × NITI Aayog / Atal Innovation Mission · Season 2023–24
 
-| Project | Description |
-|---|---|
-| **Advanced Driver Safety System** | 8+ safety functions including drink-and-drive detection, over-speeding alerts, drowsiness detection, and lane-deviation warnings; presented at the Red Fort in the presence of the Prime Minister of India |
-| **RationEase** | Smart ration vending machine using RFID, fingerprint, and OTP authentication (Arduino Mega, RFID EM-18, Fingerprint R307, SIM800C, load cell); addresses PDS corruption and long queues in a system covering ~60% of India's population |
-| **Agri Feed Pro** | Solar-powered, semi-automatic silage machine (Arduino UNO, 7000 RPM chopper, humidity sensor, biodegradable packing); developed with field research across 5 farmers and 5 veterinarians in Karnataka |
-| **Sustainable Park** | 6 energy-harvesting devices, including Arduino-controlled IR street lighting and a piezoelectric pathway |
-| **Space Rover Environmental Monitoring Station** | 12+ sensor array (AHT10, BMP180, MQ-8, MQ135, MICS-6814, ML8511 UV, MPU6050, dual ESP32-CAM) |
-| **GetGrowing** | Android app connecting farmers and urban green enthusiasts, built in MIT App Inventor (Grade 6) |
-| **C0.Net** | Gamified zero-waste lifestyle app with a task-and-badge reward system |
+</td>
+</tr>
+<tr>
+<td width="60">🏛</td>
+<td>
 
-## Skills & Technical Interests
+**Top 100 Teams — ATL Marathon (Student Innovation Program, Level 2)** · [↗ Certificate](https://drive.google.com/drive/folders/your-folder-id)
+Atal Innovation Mission, NITI Aayog · Project: **RationEase** · Selected after a Top 350 national round
 
-- **Arduino & Hardware Engineering** — custom builds including a robotic arm and community-impact automation projects
-- **3D Printing** — designing and fabricating custom parts, such as the rack-and-pinion trapdoor mechanism for Agri Feed Pro
-- **App Development** — Android, Arduino C++, and IoT firmware
-- **Game Development** — independent passion projects
-- **Web Development** — self-directed learning and platform concepts, including through the ATL Tinkerpreneur bootcamp
+</td>
+</tr>
+</table>
 
-## Bootcamps, Workshops & Memberships
+> Full portfolio with certificates, research papers, and source code available on request — I promise it's more organized than my desk.
 
-- Junior Academy Member — New York Academy of Sciences
-- NIE Robotics & Innovation Bootcamp — National Institute of Engineering
-- EYE (Entrepreneurship & Young Entrepreneurs Program) — Excel Public School
-- ATL Tinkerpreneur 2022 — 9-week entrepreneurship bootcamp, Atal Innovation Mission, NITI Aayog
-- Workshop on Recent Progress in Astrophysics (WRPA-2022) — Dept. of Physics, Amity University, Uttar Pradesh
+---
 
-<div align="center">
+## 🛠️ Skills & Tech Stack
 
-⭐ Full portfolio with certificates and documentation available on request.
+**🤖 Robotics & Hardware (the favorite child)**
 
-</div>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+**🌐 IoT & Embedded Systems**
+
+<img src="https://img.shields.io/badge/IoT-Sensors_%26_Actuators-4CAF50?style=for-the-badge"/> <img src="https://img.shields.io/badge/RFID-Fingerprint-blueviolet?style=for-the-badge"/> <img src="https://img.shields.io/badge/GSM/SIM800C-orange?style=for-the-badge"/>
+
+**🖨️ 3D Printing & Design**
+
+<img src="https://img.shields.io/badge/3D_Printing-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/CAD_Design-1976D2?style=for-the-badge"/>
+
+**💻 Web, App & Game Development**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Android_(MIT_App_Inventor)-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Game_Dev-8A2BE2?style=for-the-badge&logo=unity&logoColor=white"/>
+
+**🤖 AI, SEO & Growth**
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-black?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white"/> <img src="https://img.shields.io/badge/Technical_Writing-6E4AFF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Ghostwriting-333333?style=for-the-badge"/> <img src="https://img.shields.io/badge/Software_Testing-D32F2F?style=for-the-badge"/>
+
+**📈 Business & Finance**
+
+<img src="https://img.shields.io/badge/Entrepreneurship-009688?style=for-the-badge"/> <img src="https://img.shields.io/badge/Finance-2E7D32?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pitching_%26_Investor_Decks-FBC02D?style=for-the-badge"/>
+
+---
+
+## 🚀 Currently Building / Leading
+
+- 🌾 **Technology Head @ AgriNXT** — building hardware that farmers actually want to use
+- ♻️ **CEO & Co-founder @ C0.Net** — gamifying zero-waste living, one badge at a time
+- 🔬 Occasionally arguing with a soldering iron about who's really in charge
+
+---
+
+## 📊 GitHub Stats (the part robots love)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+</p>
+
+> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate the stats.
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <em>⭐ If my sensors haven't malfunctioned, this profile updates faster than my 3D printer finishes a print.</em>
+</p>
