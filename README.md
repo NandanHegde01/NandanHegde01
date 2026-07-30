@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=100&color=6B46C1&center=true&vCenter=true&width=650&lines=Member+%40+New+York+Academy+of+Sciences;Cursed+Technique%3A+Infinite+Debugging;Domain+Expansion%3A+Innovation+Realm" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=250&color=6B46C1&center=true&vCenter=true&width=650&lines=Member+%40+New+York+Academy+of+Sciences;Cursed+Technique%3A+Infinite+Debugging;Domain+Expansion%3A+Innovation+Realm" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 I build robots that don't catch fire (most of the time), write code that occasionally works on the first try, and was selected as a Special Guest for India's Independence Day celebration, where the Prime Minister was also present — saw him from up close. Think of me as a jujutsu sorcerer, except instead of exorcising curses, I exorcise bugs — and instead of a cursed technique, I've got a screwdriver and way too much caffeine.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1000&pause=100&color=6B46C1&center=true&vCenter=true&width=750&lines=if+(task+%3D%3D+%22impossible%22)%3A;++++activate_domain_expansion(%22Innovation+Realm%22)%3B;++++%23+sure-hit+effect%3A+task+gets+solved" alt="Code Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=250&color=6B46C1&center=true&vCenter=true&width=750&lines=if+(task+%3D%3D+%22impossible%22)%3A;++++activate_domain_expansion(%22Innovation+Realm%22)%3B;++++%23+sure-hit+effect%3A+task+gets+solved" alt="Code Typing SVG" />
 </p>
 
 ---
